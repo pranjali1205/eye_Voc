@@ -19,7 +19,9 @@ There are total of 5 folders :-
     </br></br>                 
  5. src_code_online : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline) and make the path changes as mention below(under Changes needed for running the source code for offline mode headline).</br>
                        Once everything is setup, run the Main.py program
-     </br></br>                  
+     </br></br>
+  About remaning files :-
+  </br>
   6. EyeVoc.pptx : This contains our prsentation slides.
   </br></br>
   7. Prgram_flow.png : This picture shows how the control flows between all the files of source code.
@@ -47,10 +49,10 @@ VOSK : $ pip install vosk
 </br></br></br>
 # Changes needed for running the source code for offline mode
 ● In <b>Engine.py</b> file(" of offline version")</br>
-At line no. 10, update the path of <b>vosk-model-samll-en-in-0.4</b> folder according to your local system. 
-.
+At line no. 10, update the <b> path of vosk-model-samll-en-in-0.4</b> folder according to your local system. 
+</br></br>
 ●  In <b>OpenApps.py</b> (Make this change in both versions).</br>
-At line no. 71, change the path of eviacam.exe file. </br>
+At line no. 71, change the <b> path of eviacam.exe file</b>. </br>
 (You can get the path of eviacam by opening Enable_viacam folder, then open bin
 folder, then look for evicam.exe file.) 
 </br> or ( if you installed eviacam through link, udpate the path according to where you have downloaded it.)
