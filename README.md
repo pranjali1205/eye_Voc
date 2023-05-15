@@ -1,5 +1,7 @@
 ## eye_Voc
-This innovative tool is designed to empower individuals whomay have limited hand mobility by providing them with a wayto code using only their voice. With this tool, users can alsohandle a computer completely using just voice commands.
+This innovative tool is designed to empower individuals who may have limited hand mobility by providing them with a wayto code using only their voice. With this tool, users can also handle a computer completely using just voice commands.
+Developers can also use this for hands free coding. Presently our tool providing coding in java, python, c nd c++.
+( if any word doesn't get recognised properly, you can open on screen keybord using comand "open kebord"  )
 
 # Understanding the file structure
 There are total of 5 folders :-
@@ -41,3 +43,10 @@ Pythonping : $ pip install pythonping </br>
 </br>
 one additional library for offline version -</br>
 VOSK : $ pip install vosk
+</br></br></br>
+
+# Link to all the voice commands
+</br> https://docs.google.com/document/d/19MFWQ_5MpEi7aJvZREQXF3sdn0hBGh0vE0YTHDRHvIw/edit
+</br></br></br>
+<b>NOTE :</b> We have developed this tool entirely on Windows platform. So the users using other os might face some dependencies problem. Hence we suggest using windows os to test or exprience functionalities of our tool.
+
