@@ -1,7 +1,7 @@
 ## eye_Voc
-This innovative tool is designed to empower individuals who may have limited hand mobility by providing them with a wayto code using only their voice. With this tool, users can also handle a computer completely using just voice commands.
-Developers can also use this for hands free coding. Presently our tool providing coding in java, python, c nd c++.
-( if any word doesn't get recognised properly, you can open on screen keybord using comand "open kebord"  )
+This innovative tool is designed to empower individuals who may have limited hand mobility by providing them with a wayto code using only their voice. With this tool, users can also handle a computer completely using just voice commands.</br>
+Developers can also use this for hands free coding. Presently our tool provides coding in java, python, c and c++.</br>
+( if any word doesn't get recognised properly, you can open on screen keybord using comand "open kebord", type the word you require and later use "close keyboaed" to close it )</br></br>
 
 # Understanding the file structure
 There are total of 5 folders :-
@@ -11,13 +11,13 @@ There are total of 5 folders :-
 2. EyeVoc_offline_Application :  This is the folder for our offline application. We made this so that even the people who don't have python installed in their                           systems can use our application.
                     To use the application, open the folder.Scroll down, you will find EyeVoc_offline.exe file( one with icon).Doble tap to open it.
   </br></br>                  
-3. EyeVoc_offline_Application : This is the folder for our online application.
+3. EyeVoc_online_Application : This is the folder for our online application.
                      To use the application, open the folder.Scroll down, you will find EyeVoc_offline.exe file( one with icon).Doble tap to open it.
   </br></br>                   
 4. src_code_offline : This contains entire source code of offline mode. In oder to run the application through source code, make sure you have python installed in                        your systems. Also install the dependencies mentioned below (under dependencies headline).
                      Once everything is setup, run the Main.py program.
     </br></br>                 
- 5. src_code_offline : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline).
+ 5. src_code_online : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline).
                        Once everything is setup, run the Main.py program
      </br></br>                  
   6. EyeVoc.pptx : This contains our prsentation slides.
