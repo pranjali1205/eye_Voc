@@ -4,7 +4,7 @@ Developers can also use this for hands free coding. Presently our tool provides 
 ( if any word doesn't get recognised properly, you can always open on screen keybord using comand "open keybord", type the word you require ,and later use "close keyboard" to close it )</br></br>
 
 # Understanding the file structure
-There are total of 5 folders :-
+There are total of 5 folders and 7 files:-
 1. Enable_Viacam : This is folder for eye tracker that we are using. Once you open this folder, scroll down you will find a file named eviacam.exe. Double tap on                     it to open.</br>
                    If you find it difficult to open evicam this way, you also download it from this link-> https://eviacam.crea-si.com/index.php
   </br></br>                 
@@ -20,8 +20,6 @@ There are total of 5 folders :-
  5. src_code_online : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline) and make the path changes as mention below(under Changes needed for running the source code for offline mode headline).</br>
                        Once everything is setup, run the Main.py program
      </br></br>
-  About remaning files :-
-  </br>
   6. EyeVoc.pptx : This contains our prsentation slides.
   </br></br>
   7. Prgram_flow.png : This picture shows how the control flows between all the files of source code.
@@ -34,6 +32,7 @@ There are total of 5 folders :-
   </br></br>
   11. offline_demo.webm and online_mode_demo.mp4 : These are demo videos for our offline and online modedl respectively.
    </br></br></br>
+   
 # Dependencies that neeeds to be installed
 pyttsx3 : $ pip install pyttsx3 </br>
 pyautogui : $ pip install pyautogui </br>
