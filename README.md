@@ -30,7 +30,7 @@ There are total of 5 folders :-
    Later we have demo videos.
    
 # Dependencies that neeeds to be installed
-pyttsx3 : $ pip install pyttsx3
+pyttsx3 : $ pip install pyttsx3 </br>
 pyautogui : $ pip install pyautogui
 speech_recognition : $ pip install SpeechRecognition
 wmi : $ pip install wmi
