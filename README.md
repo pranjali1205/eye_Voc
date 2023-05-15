@@ -29,7 +29,8 @@ There are total of 5 folders :-
   9. features.png :  This pic shows all the features we have implemented in our tool.
   </br></br>
   10.intructions.pdf : Refer to this file to know the intructions to use application in detail.
-   Later we have demo videos.
+  </br></br>
+  11. offline_demo.webm and online_mode_demo.mp4 : These are demo videos for our offline and online modedl respectively.
    </br></br></br>
 # Dependencies that neeeds to be installed
 pyttsx3 : $ pip install pyttsx3 </br>
