@@ -14,10 +14,10 @@ There are total of 5 folders :-
 3. EyeVoc_online_Application : This is the folder for our online application.</br>
                      To use the application, open the folder.Scroll down, you will find EyeVoc_offline.exe file( one with icon).Doble tap to open it.
   </br></br>                   
-4. src_code_offline : This contains entire source code of offline mode. In oder to run the application through source code, make sure you have python installed in                        your systems. Also install the dependencies mentioned below (under dependencies headline).</br>
+4. src_code_offline : This contains entire source code of offline mode. In oder to run the application through source code, make sure you have python installed in                     your systems. Also install the dependencies mentioned below (under dependencies headline) and make the path changes as mention below(under Changes needed for running the source code for offline mode headline).</br>
                      Once everything is setup, run the Main.py program.
     </br></br>                 
- 5. src_code_online : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline).</br>
+ 5. src_code_online : This contains entire source code of online mode. In oder to run the application through source code, make sure you have python installed in                          your systems. Also install the dependencies mentioned below (under dependencies headline) and make the path changes as mention below(under Changes needed for running the source code for offline mode headline).</br>
                        Once everything is setup, run the Main.py program
      </br></br>                  
   6. EyeVoc.pptx : This contains our prsentation slides.
@@ -45,6 +45,15 @@ Pythonping : $ pip install pythonping </br>
 one additional library for offline version -</br>
 VOSK : $ pip install vosk
 </br></br></br>
+# Changes needed for running the source code for offline mode
+● In <b>Engine.py</b> file(" of offline version")</br>
+At line no. 10, update the path of <b>vosk-model-samll-en-in-0.4</b> folder according to your local system. 
+.
+●  In <b>OpenApps.py</b> (Make this change in both versions).</br>
+At line no. 71, change the path of eviacam.exe file. </br>
+(You can get the path of eviacam by opening Enable_viacam folder, then open bin
+folder, then look for evicam.exe file.) 
+</br> or ( if you installed eviacam through link, udpate the path according to where you have downloaded it.)
 
 # Link to all the voice commands
 </br> https://docs.google.com/document/d/19MFWQ_5MpEi7aJvZREQXF3sdn0hBGh0vE0YTHDRHvIw/edit
