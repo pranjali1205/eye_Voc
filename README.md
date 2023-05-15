@@ -55,7 +55,7 @@ At line no. 71, change the <b> path of eviacam.exe file</b>. </br>
 (You can get the path of eviacam by opening Enable_viacam folder, then open bin
 folder, then look for evicam.exe file.) 
 </br> or ( if you installed eviacam through link, udpate the path according to where you have downloaded it.)
-
+</br></br></br>
 # Link to all the voice commands
 </br> https://docs.google.com/document/d/19MFWQ_5MpEi7aJvZREQXF3sdn0hBGh0vE0YTHDRHvIw/edit
 </br></br></br>
