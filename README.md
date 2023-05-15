@@ -46,7 +46,7 @@ Pythonping : $ pip install pythonping </br>
 one additional library for offline version -</br>
 VOSK : $ pip install vosk
 </br></br></br>
-# Changes needed for running the source code for offline mode
+# Changes needed for running the source code
 ● In <b>Engine.py</b> file(" of offline version")</br>
 At line no. 10, update the <b> path of vosk-model-samll-en-in-0.4</b> folder according to your local system. 
 </br></br>
