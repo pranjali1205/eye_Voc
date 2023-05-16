@@ -59,14 +59,14 @@ folder, then look for evicam.exe file.)
 
 # Configuring Eviacam
 - For ease of opening eviacam, give it prmission to make changes in your device.( Go to show more datils to make this change )
-- ![Screenshot 2023-05-16 113649 (1)](https://github.com/pranjali1205/eye_Voc/assets/93343451/e8f82122-e818-428d-9026-f93afbba8d14)
+- <img src="https://github.com/pranjali1205/eye_Voc/assets/93343451/e8f82122-e818-428d-9026-f93afbba8d14" width=60% height=60% >
    
    </br></br>
 - on eviacam window, go to congiguartion.Then select options.(as shown below)
-- ![Screenshot 2023-05-16 112504](https://github.com/pranjali1205/eye_Voc/assets/93343451/c6420e18-40c1-4608-aa16-1c9b8e744a6d)
+- <img src= "https://github.com/pranjali1205/eye_Voc/assets/93343451/c6420e18-40c1-4608-aa16-1c9b8e744a6d"  > 
  </br></br>
 - Then, go to click tab and make the changes as shown below.( this step is necessary in order to prevent unessary clicks when you are staring at a place )
-- ![Screenshot 2023-05-16 112548](https://github.com/pranjali1205/eye_Voc/assets/93343451/dd4ca94a-19ce-414f-9d14-f55f54f44afb)you can unselect "Show Click Window"
+- <img src="https://github.com/pranjali1205/eye_Voc/assets/93343451/dd4ca94a-19ce-414f-9d14-f55f54f44afb" width=60% height=60% >you can unselect "Show Click Window"
   </br></br>
 - These were all necessary changes. You can also make other changes in motion or speed of cursor according to your convenience.
 </br></br></br>
