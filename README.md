@@ -57,6 +57,16 @@ folder, then look for evicam.exe file.)
 </br> or ( if you installed eviacam through link, udpate the path according to where you have downloaded it.)
 </br></br></br>
 
+# Configuring Eviacam
+- For ease of opening eviacam, give it prmission to make changes in your device.
+- ![Screenshot 2023-05-16 113649 (1)](https://github.com/pranjali1205/eye_Voc/assets/93343451/e8f82122-e818-428d-9026-f93afbba8d14)
+   Go to show more datils to make this change
+- on eviacam window, go to congiguartion.Then select options.(as shown below)
+- ![Screenshot 2023-05-16 112504](https://github.com/pranjali1205/eye_Voc/assets/93343451/c6420e18-40c1-4608-aa16-1c9b8e744a6d)
+- Then, go to click tab and make the changes as shown below.( this step is necessary in order to prevent unessary clicks when you are staring at a place )
+- ![Screenshot 2023-05-16 112548](https://github.com/pranjali1205/eye_Voc/assets/93343451/dd4ca94a-19ce-414f-9d14-f55f54f44afb)
+- These were all necessary changes. You can also make other changes in motion or speed of cursor according to your convenience.
+</br></br></br>
 # Pros and cons of online and offline versions
 </br> <b>Online :</b></br>
 - this version has better accuracy, as it is trained on huge collection of words.
