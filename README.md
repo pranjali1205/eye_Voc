@@ -59,7 +59,7 @@ folder, then look for evicam.exe file.)
 
 # Configuring Eviacam
 - For ease of opening eviacam, give it prmission to make changes in your device.( Go to show more datils to make this change )
-- <img src="https://github.com/pranjali1205/eye_Voc/assets/93343451/e8f82122-e818-428d-9026-f93afbba8d14" width=60% height=60% >
+- <img src="https://github.com/pranjali1205/eye_Voc/assets/93343451/e8f82122-e818-428d-9026-f93afbba8d14.png"width=50% height=50%>
    
    </br></br>
 - on eviacam window, go to congiguartion.Then select options.(as shown below)
