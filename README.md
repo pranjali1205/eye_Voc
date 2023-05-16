@@ -56,6 +56,19 @@ At line no. 71, change the <b> path of eviacam.exe file</b>. </br>
 folder, then look for evicam.exe file.) 
 </br> or ( if you installed eviacam through link, udpate the path according to where you have downloaded it.)
 </br></br></br>
+
+# Pros and cons of online and offline versions
+</br> <b>Online :</b></br>
+- this version has better accuracy, as it is trained on huge collection of words.
+- However, it may take a bit longer to respond since it relies on Google's speech recognition technology to recognize the words. To verify each word, the system needs to connect to a server, and the recognized word is then sent back as a response.As a result the response speed depends on the internet speed. 
+</br></br>
+</br> <b>Offline :</b></br>
+(Since we can't access internet everywhere, we thought of bringing a offline version which can be used anywhere without worrying about the net connection)
+- This version has a very quick response time.
+- However, it may not always predict the word correctly, as it is only trained on commonly used words.Because of which many morden words or the words which we do not use in day to day life might not be present in the data. For eg :- "Whatsapp" isn't there in the collection of words. But in oder to use it we added alternatives which were getting recognised when tried to say whatsapp.So we added "what's up" as an ulternative to that.</br> 
+- We have done the same practise for all other words to enhance the accuracy of our tool. 
+</br></br></br>
+
 # Link to all the voice commands
 </br> https://docs.google.com/document/d/19MFWQ_5MpEi7aJvZREQXF3sdn0hBGh0vE0YTHDRHvIw/edit
 </br></br></br>
